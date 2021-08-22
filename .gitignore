@@ -1,3 +1,8 @@
 # Environment File
+<<<<<<< HEAD
 node_modules
 .env
+=======
+.env
+node_modules
+>>>>>>> 95218ff9e8db0ba6c4e3545e91f6ea745af7fad7
