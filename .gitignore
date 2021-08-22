@@ -1,2 +1,3 @@
 # Environment File
+node_modules
 .env
