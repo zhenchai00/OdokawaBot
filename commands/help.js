@@ -11,4 +11,4 @@ module.exports = {
         "**/ping** - Check response from Odokawa"
         );
     }
-}
+};
